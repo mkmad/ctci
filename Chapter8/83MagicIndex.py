@@ -23,4 +23,4 @@ def FillArray():
     return array
 
 array = FillArray()
-print MagicIndex(array, 0, len(array) - 1)
+print(MagicIndex(array, 0, len(array) - 1))
